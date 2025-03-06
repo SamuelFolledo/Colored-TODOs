@@ -1,4 +1,4 @@
-# MyList
+# Colored TODOs iOS App
 A todo app that utilizes CoreData for persisting projects and tasks with local notifications. Never forget a task you have to do ever again!
 
 ## Features
